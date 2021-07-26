@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="" height="" viewBox="0 0 9 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>facebook</title>
+    <defs>
+        <polygon id="path-1" points="0 0 8.08888889 0 8.08888889 15.5555556 0 15.5555556"></polygon>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer" transform="translate(-452.000000, -168.000000)">
+            <g id="sns-icon" transform="translate(360.000000, 160.000000)">
+                <g id="facebook" transform="translate(80.000000, 0.000000)">
+                    <g transform="translate(12.000000, 8.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M5.2503116,15.5555556 L5.2503116,8.4600696 L7.63488173,8.4600696 L7.99135201,5.69504648 L5.2503116,5.69504648 L5.2503116,3.92970265 C5.2503116,3.1284996 5.47286724,2.58304691 6.62202322,2.58304691 L8.08888889,2.58209498 L8.08888889,0.109629962 C7.83503884,0.0759952993 6.96451427,0 5.95117919,0 C3.83856856,0 2.39076547,1.28874701 2.39076547,3.65570707 L2.39076547,5.69504648 L0,5.69504648 L0,8.4600696 L2.39076547,8.4600696 L2.39076547,15.5555556 L5.2503116,15.5555556 Z" id="Fill-1" fill="#999aa9" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

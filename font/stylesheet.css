@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'VW Text';
+    src: url('VWText.eot');
+    src: url('VWText.eot?#iefix') format('embedded-opentype'),
+        url('VWText.woff2') format('woff2'),
+        url('VWText.woff') format('woff'),
+        url('VWText.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VW Head';
+    src: url('VWHead-Light.eot');
+    src: url('VWHead-Light.eot?#iefix') format('embedded-opentype'),
+        url('VWHead-Light.woff2') format('woff2'),
+        url('VWHead-Light.woff') format('woff'),
+        url('VWHead-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VW Text';
+    src: url('VWText-Bold.eot');
+    src: url('VWText-Bold.eot?#iefix') format('embedded-opentype'),
+        url('VWText-Bold.woff2') format('woff2'),
+        url('VWText-Bold.woff') format('woff'),
+        url('VWText-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VW Head';
+    src: url('VWHead-Bold.eot');
+    src: url('VWHead-Bold.eot?#iefix') format('embedded-opentype'),
+        url('VWHead-Bold.woff2') format('woff2'),
+        url('VWHead-Bold.woff') format('woff'),
+        url('VWHead-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
