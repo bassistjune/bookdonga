@@ -87,13 +87,13 @@
         var w = $(this).width();
 
         depth1Bar.css({'transform':'translateX('+posX+'px)', 'width':w,'opacity':'1'});
-        $(this).next('.depth_2').slideDown(500).parent().siblings().find('.depth_2').slideUp(100);
+        $(this).next('.depth_2').slideDown(300).parent().siblings().find('.depth_2').slideUp(100);
         $('#header').addClass('on');
     });
     
     $('.nav_bar>li>a').on('mouseleave', function() {
         depth1Bar.css('opacity','0');
-        $('.depth_2').slideUp();
+        $('.depth_2').slideUp(10);
         $('#header').removeClass('on');
     })
 
